@@ -117,6 +117,10 @@ Solution : s’assurer que le solde initial du compte crédit est négatif.
 ## 👩‍💻 Auteur
 
 Salma Lakhal  
+
 CLE Info – S5 
+
 Fondamentaux de la programmation en Kotlin
+
 Année universitaire 2025–2026
+
